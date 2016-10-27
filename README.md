@@ -10,3 +10,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 * [Questions](https://www.digitalocean.com/community/questions)
 * [Projects](https://www.digitalocean.com/community/projects)
 * [Meetups](https://www.meetup.com/pro/digitalocean/)
+
+### Configuration management links
+
+* [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
+* [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
