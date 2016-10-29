@@ -1,5 +1,7 @@
 # Awesome DigitalOcean
-A curated list of amazingly awesome DigitalOcean resources.
+A curated list of awesome DigitalOcean guides, blogs, and other resources.
+
+Find more [awesome lists here](https://awesome.re/).
 
 ## Contributing
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
