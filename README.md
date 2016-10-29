@@ -21,9 +21,12 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 
 ### Open source projects
 * [Netbox](https://github.com/digitalocean/netbox)
+* [Doctl](https://github.com/digitalocean/doctl) - a DigitalOcean CLI utility.
 
 
 ### Other
 
 * [Snapshot monthly costs calculator](https://beardninja.com)
 * [DigitalOcean reddit community](https://www.reddit.com/r/digital_ocean/)
+* [Engineering Code of Conduct](https://github.com/digitalocean/engineering-code-of-conduct)
+* [DigitalOcean User Scripts](https://github.com/digitalocean/do_user_scripts) - user data scripts to help provision apps on a Droplet.
