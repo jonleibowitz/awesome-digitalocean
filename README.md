@@ -1,3 +1,9 @@
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jonleibowitz/awesome-digitalocean/master/media/DO_Logo.png">
+</p>
+<br/>
+
 # Awesome DigitalOcean [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome DigitalOcean guides, blogs, and other resources.
 
