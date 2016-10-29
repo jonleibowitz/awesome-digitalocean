@@ -29,3 +29,9 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 * [DigitalOcean reddit community](https://www.reddit.com/r/digital_ocean/)
 * [Engineering Code of Conduct](https://github.com/digitalocean/engineering-code-of-conduct)
 * [DigitalOcean User Scripts](https://github.com/digitalocean/do_user_scripts) - user data scripts to help provision apps on a Droplet.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Jon Leibowitz](https://github.com/jonleibowitz) has waived all copyright and related or neighboring rights to this work.
