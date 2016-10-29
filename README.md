@@ -19,3 +19,4 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 ### Other
 
 * [Snapshot monthly costs calculator](https://beardninja.com)
+* [DigitalOcean reddit community](https://www.reddit.com/r/digital_ocean/)
