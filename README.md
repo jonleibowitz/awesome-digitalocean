@@ -19,6 +19,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 * [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
 * [Terraform - DigitalOcean Provider](https://www.terraform.io/docs/providers/do/)
 
+### Open source projects
+* [Netbox](https://github.com/digitalocean/netbox)
+
+
 ### Other
 
 * [Snapshot monthly costs calculator](https://beardninja.com)
