@@ -27,6 +27,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 ### Open source projects
 * [Netbox](https://github.com/digitalocean/netbox)
 * [Doctl](https://github.com/digitalocean/doctl) - a DigitalOcean CLI utility.
+* [go-libvirt](https://github.com/digitalocean/go-libvirt)
+* [go-qemu](https://github.com/digitalocean/go-qemu)
 
 
 ### Other
