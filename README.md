@@ -25,7 +25,14 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 * [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
 * [Terraform - DigitalOcean Provider](https://www.terraform.io/docs/providers/do/)
 
+### Developer documentation
+
+* [API](https://developers.digitalocean.com/documentation/v2/)
+* [OAuth](https://developers.digitalocean.com/documentation/oauth/)
+* [Droplet Metdata](https://developers.digitalocean.com/documentation/metadata/)
+
 ### Open source projects
+* [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
 * [Netbox](https://github.com/digitalocean/netbox)
 * [Doctl](https://github.com/digitalocean/doctl) - a DigitalOcean CLI utility.
 * [go-libvirt](https://github.com/digitalocean/go-libvirt)
