@@ -32,12 +32,28 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 * [Droplet Metdata](https://developers.digitalocean.com/documentation/metadata/)
 
 ### Open source projects
+
 * [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
 * [Netbox](https://github.com/digitalocean/netbox)
 * [Doctl](https://github.com/digitalocean/doctl) - a DigitalOcean CLI utility.
 * [go-libvirt](https://github.com/digitalocean/go-libvirt)
 * [go-qemu](https://github.com/digitalocean/go-qemu)
 
+### Community OSS Projects
+
+* [do-sshuttle](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet
+* [drophosts](https://github.com/qmx/drophosts) - Update /etc/hosts with peer droplets
+* [droplan](https://github.com/tam7t/droplan) - Manage iptable rules for the private interface on DigitalOcean droplets
+* [foreman-digitalocean](https://github.com/theforeman/foreman-digitalocean) - Plugin to enable management of DigitalOcean droplets in Foreman
+* [lita-digitalocean](https://github.com/jimmycuadra/lita-digitalocean) - A Lita handler for managing DigitalOcean services.
+* [hostpool](https://github.com/progrium/hostpool) - A worker pool manager for DigitalOcean hosts
+
+### Clients
+
+* [doctl](https://github.com/digitalocean/doctl) - A command line tool for DigitalOcean services
+* [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client
+* [domanager](https://github.com/itohnobue/domanager) - Linux and Windows System Tray Client
+* [OceanBar](https://github.com/terhechte/OceanBar) - Mac OS X Menubar Client
 
 ### Other
 
