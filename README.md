@@ -54,6 +54,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 * [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client
 * [domanager](https://github.com/itohnobue/domanager) - Linux and Windows System Tray Client
 * [OceanBar](https://github.com/terhechte/OceanBar) - Mac OS X Menubar Client
+* [Tugboat](https://github.com/pearkes/tugboat) - Ruby command line tool for DigitalOcean services, focusing on a more guided UX
 
 ### Other
 
