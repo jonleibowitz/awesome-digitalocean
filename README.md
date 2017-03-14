@@ -47,6 +47,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 * [foreman-digitalocean](https://github.com/theforeman/foreman-digitalocean) - Plugin to enable management of DigitalOcean droplets in Foreman
 * [lita-digitalocean](https://github.com/jimmycuadra/lita-digitalocean) - A Lita handler for managing DigitalOcean services.
 * [hostpool](https://github.com/progrium/hostpool) - A worker pool manager for DigitalOcean hosts
+* [DDNS](https://github.com/skibish/ddns) - Personal DDNS client with Digital Ocean Networking DNS as backend.
 
 ### Clients
 
