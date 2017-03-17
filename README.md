@@ -48,6 +48,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 * [lita-digitalocean](https://github.com/jimmycuadra/lita-digitalocean) - A Lita handler for managing DigitalOcean services.
 * [hostpool](https://github.com/progrium/hostpool) - A worker pool manager for DigitalOcean hosts
 * [DDNS](https://github.com/skibish/ddns) - Personal DDNS client with Digital Ocean Networking DNS as backend.
+* [Less Confusing Menus](https://github.com/addpipe/Less-Confusing-Digital-Ocean-Menus) - A Chrome extension that makes account menus less confusing.
 
 ### Clients
 
