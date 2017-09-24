@@ -12,23 +12,23 @@ Find more [awesome lists here](https://awesome.re/).
 
 ## Contents
 
-- [Community](#community-links)
-- [Configuration management]
-- [Developer documentation]
-- [Open source]
-- [Community OSS]
-- [Clients]
-- [Other]
+- [Community](#community)
+- [Configuration management](#configuration-management)
+- [Developer documentation](#developer-documentation)
+- [Open source](#open-source-projects)
+- [Community OSS](#community-oss-projects)
+- [Clients](#clients)
+- [Other](#other)
 
 
-## Community links
+## Community
 * [Tutorial Search and Index](https://www.digitalocean.com/community/tutorials)
 * [Community articles by tag](https://www.digitalocean.com/community/tags)
 * [Questions](https://www.digitalocean.com/community/questions)
 * [Projects](https://www.digitalocean.com/community/projects)
 * [Meetups](https://www.meetup.com/pro/digitalocean/)
 
-## Configuration management links
+## Configuration management
 
 * [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
 * [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
