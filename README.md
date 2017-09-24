@@ -1,16 +1,19 @@
+# Awesome DigitalOcean [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/jonleibowitz/awesome-digitalocean/master/media/DO_Logo.png">
 </p>
 <br/>
 
-# Awesome DigitalOcean [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome DigitalOcean guides, blogs, and other resources.
+>A curated list of awesome DigitalOcean guides, blogs, and other resources.
+
+DigitalOcean's tagline is it is a simple and robust cloud computing platform, designed for developers. With DigitalOcean you can easily spin up cloud compute and storage resources either indivdually or with a team. 
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 Find more [awesome lists here](https://awesome.re/).
-
-## Contributing
-Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to contribute.
 
 ### Community links
 * [Tutorial Search and Index](https://www.digitalocean.com/community/tutorials)
