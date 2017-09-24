@@ -10,26 +10,37 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 Find more [awesome lists here](https://awesome.re/).
 
-### Community links
+## Contents
+
+- [Community](#Community_links)
+- [Configuration management]
+- [Developer documentation]
+- [Open source]
+- [Community OSS]
+- [Clients]
+- [Other]
+
+
+## Community links
 * [Tutorial Search and Index](https://www.digitalocean.com/community/tutorials)
 * [Community articles by tag](https://www.digitalocean.com/community/tags)
 * [Questions](https://www.digitalocean.com/community/questions)
 * [Projects](https://www.digitalocean.com/community/projects)
 * [Meetups](https://www.meetup.com/pro/digitalocean/)
 
-### Configuration management links
+## Configuration management links
 
 * [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
 * [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
 * [Terraform - DigitalOcean Provider](https://www.terraform.io/docs/providers/do/)
 
-### Developer documentation
+## Developer documentation
 
 * [API](https://developers.digitalocean.com/documentation/v2/)
 * [OAuth](https://developers.digitalocean.com/documentation/oauth/)
 * [Droplet Metdata](https://developers.digitalocean.com/documentation/metadata/)
 
-### Open source projects
+## Open source projects
 
 * [Open Source @ DigitalOcean](https://developers.digitalocean.com/opensource/)
 * [Netbox](https://github.com/digitalocean/netbox)
@@ -37,7 +48,7 @@ Find more [awesome lists here](https://awesome.re/).
 * [go-libvirt](https://github.com/digitalocean/go-libvirt)
 * [go-qemu](https://github.com/digitalocean/go-qemu)
 
-### Community OSS Projects
+## Community OSS Projects
 
 * [do-sshuttle](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet
 * [drophosts](https://github.com/qmx/drophosts) - Update /etc/hosts with peer droplets
@@ -48,7 +59,7 @@ Find more [awesome lists here](https://awesome.re/).
 * [DDNS](https://github.com/skibish/ddns) - Personal DDNS client with Digital Ocean Networking DNS as backend.
 * [Less Confusing Menus](https://github.com/addpipe/Less-Confusing-Digital-Ocean-Menus) - A Chrome extension that makes account menus less confusing.
 
-### Clients
+## Clients
 
 * [doctl](https://github.com/digitalocean/doctl) - A command line tool for DigitalOcean services
 * [digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Debian Gnome panel client
@@ -56,7 +67,7 @@ Find more [awesome lists here](https://awesome.re/).
 * [OceanBar](https://github.com/terhechte/OceanBar) - Mac OS X Menubar Client
 * [Tugboat](https://github.com/pearkes/tugboat) - Ruby command line tool for DigitalOcean services, focusing on a more guided UX
 
-### Other
+## Other
 
 * [DigitalOcean reddit community](https://www.reddit.com/r/digital_ocean/)
 * [`##digitalocean` on freenode](https://webchat.freenode.net/)
