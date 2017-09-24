@@ -12,7 +12,7 @@ Find more [awesome lists here](https://awesome.re/).
 
 ## Contents
 
-- [Community](#Community-links)
+- [Community](#community-links)
 - [Configuration management]
 - [Developer documentation]
 - [Open source]
