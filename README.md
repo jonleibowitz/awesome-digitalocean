@@ -73,6 +73,7 @@ Find more [awesome lists here](https://awesome.re/).
 * [`##digitalocean` on freenode](https://webchat.freenode.net/)
 * [Engineering Code of Conduct](https://github.com/digitalocean/engineering-code-of-conduct)
 * [DigitalOcean User Scripts](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet.
+* [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Month-long celebration of open source software in partnership with GitHub.
 
 ## License
 
