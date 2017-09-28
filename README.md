@@ -37,6 +37,7 @@ Find more [awesome lists here](https://awesome.re/).
 ## Developer documentation
 
 * [API](https://developers.digitalocean.com/documentation/v2/)
+* [Spaces API](https://developers.digitalocean.com/documentation/spaces/)
 * [OAuth](https://developers.digitalocean.com/documentation/oauth/)
 * [Droplet Metdata](https://developers.digitalocean.com/documentation/metadata/)
 
