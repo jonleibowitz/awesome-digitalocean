@@ -33,6 +33,7 @@ Find more [awesome lists here](https://awesome.re/).
 * [Using Ansible with DigitalOcean](https://the.binbashtheory.com/using-ansible-with-digitalocean/)
 * [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
 * [Terraform - DigitalOcean Provider](https://www.terraform.io/docs/providers/do/)
+* [DigitalOcean in Action!](https://github.com/keinohguchi/do-in-action) - Example repo for using DigitalOcean with Terraform and Ansible.
 
 ## Developer documentation
 
