@@ -61,6 +61,7 @@ Find more [awesome lists here](https://awesome.re/).
 * [DDNS](https://github.com/skibish/ddns) - Personal DDNS client with Digital Ocean Networking DNS as backend.
 * [Less Confusing Menus](https://github.com/addpipe/Less-Confusing-Digital-Ocean-Menus) - A Chrome extension that makes account menus less confusing.
 * [DigitalOcean Droplet creator](https://github.com/NicholasPCole/dodc) - A dialog-based shell script to quickly create a single DigitalOcean Droplet.
+* [do-upgrade-plans](https://github.com/bjornjohansen/do-upgrade-plans) - A script to upgrade your DigitalOcean Droplets to better plans with the same cost
 
 ## Clients
 
