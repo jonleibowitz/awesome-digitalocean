@@ -18,6 +18,7 @@ Find more [awesome lists here](https://awesome.re/).
 - [Open source](#open-source-projects)
 - [Community OSS](#community-oss-projects)
 - [Clients](#clients)
+- [Video tutorials](#video-tutorials)
 - [Other](#other)
 
 
@@ -70,6 +71,10 @@ Find more [awesome lists here](https://awesome.re/).
 * [domanager](https://github.com/itohnobue/domanager) - Linux and Windows System Tray Client.
 * [OceanBar](https://github.com/terhechte/OceanBar) - Mac OS X Menubar Client.
 * [Tugboat](https://github.com/pearkes/tugboat) - Ruby command line tool for DigitalOcean services, focusing on a more guided UX.
+
+## Video tutorials
+
+* [Building a Kubernetes cluster on DigitalOcean using Kubicorn](https://www.youtube.com/watch?v=XpxgSZ3dspE)
 
 ## Other
 
