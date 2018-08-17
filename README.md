@@ -42,7 +42,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Spaces API](https://developers.digitalocean.com/documentation/spaces/)
 * [OAuth](https://developers.digitalocean.com/documentation/oauth/)
 * [Droplet Metadata](https://developers.digitalocean.com/documentation/metadata/)
-* [Official DO Release](https://www.digitalocean.com/docs/release-notes/) - Notes tracking incremental improvements and major releases for the DigitalOcean cloud platform.
+* [Official DO Release Notes](https://www.digitalocean.com/docs/release-notes/) - Notes tracking incremental improvements and major releases for the DigitalOcean cloud platform.
 
 ## Open source projects
 
