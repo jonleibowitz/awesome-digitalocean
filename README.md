@@ -14,8 +14,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Community](#community)
 - [Configuration management](#configuration-management)
 - [Developer documentation](#developer-documentation)
-- [Open source](#open-source)
-- [Community OSS](#community-oss)
+- [Open source projects](#open-source-projects)
+- [Community OSS projects](#community-oss-projects)
 - [Clients](#clients)
 - [Video tutorials](#video-tutorials)
 - [Other](#other)
@@ -52,7 +52,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [go-libvirt](https://github.com/digitalocean/go-libvirt)
 * [go-qemu](https://github.com/digitalocean/go-qemu)
 
-## Community OSS Projects
+## Community OSS projects
 
 * [do-sshuttle](https://github.com/f/do-sshuttle) - Transparent Proxying via sshuttle to DigitalOcean Droplet.
 * [drophosts](https://github.com/qmx/drophosts) - Update `/etc/hosts` with peer droplets.
