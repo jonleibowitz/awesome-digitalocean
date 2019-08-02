@@ -35,6 +35,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Ansible Cloud Modules - DigitalOcean](http://docs.ansible.com/ansible/list_of_cloud_modules.html#digital-ocean)
 - [Terraform - DigitalOcean Provider](https://www.terraform.io/docs/providers/do/)
 - [DigitalOcean in Action!](https://github.com/keinohguchi/do-in-action) - Example repo for using DigitalOcean with Terraform and Ansible.
+- [Use DigitalOcean as Dynamic DNS](https://surdu.me/2019/07/28/digital-ocean-ddns.html)
 
 ## Developer documentation
 
