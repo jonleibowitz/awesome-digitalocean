@@ -87,6 +87,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [User Scripts](https://github.com/digitalocean/do_user_scripts) - User data scripts to help provision apps on a Droplet.
 - [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Month-long celebration of open source software in partnership with GitHub.
 - [SnapShooter DigitalOcean Backups](https://snapshooter.io/daily-hourly-digital-ocean-backups/) - Tool for taking Daily to Hourly backups of Droplets and Volumes
+- [Hourly to Daily DigitalOcean Backups - Weap.io](https://weap.io) - Tool for scheduling more frequent DigitalOcean backups
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
