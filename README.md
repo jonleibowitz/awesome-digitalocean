@@ -57,9 +57,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Commercial integrations
 
-- [SnapShooter DigitalOcean Backups](https://snapshooter.io/daily-hourly-digital-ocean-backups/) - Tool for taking Daily to Hourly backups of Droplets and Volumes
-- [Hourly to Daily DigitalOcean Backups - Weap.io](https://weap.io) - Tool for scheduling more frequent DigitalOcean backups
-- [Websites & Databases Backups - SimpleBackups](https://simplebackups.io) - Tool for scheduling DigitalOcean backups (files & databases) the easy way and on auto-pilot.
+- [SimpleBackups](https://simplebackups.io) - Tool for scheduling DigitalOcean backups (files & databases) on auto-pilot.
+- [SnapShooter](https://snapshooter.io/daily-hourly-digital-ocean-backups/) - Tool for taking Daily to Hourly backups of Droplets and Volumes
+- [Weap.io](https://weap.io) - Hourly to Daily DigitalOcean backups. Tool for scheduling more frequent DigitalOcean backups
 
 ## Community OSS projects
 
