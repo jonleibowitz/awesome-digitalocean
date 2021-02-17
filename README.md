@@ -57,9 +57,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Commercial integrations
 
+- [Bill.do](https://bill.do) - Free DigitalOcean billing monitoring and insights tool
 - [HostLaunch](https://hostlaunch.io) - Launch a hosting company based on DigitalOcean and ServerPilot.
 - [SimpleBackups](https://simplebackups.io) - Tool for scheduling DigitalOcean backups (files & databases) on auto-pilot.
-- [SnapShooter](https://snapshooter.io/daily-hourly-digital-ocean-backups/) - Tool for taking Daily to Hourly backups of Droplets and Volumes
+- [SnapShooter](https://snapshooter.io/digitalocean) - Tool for taking Daily to Hourly backups of Droplets and Volumes
 - [Weap.io](https://weap.io) - Hourly to Daily DigitalOcean backups. Tool for scheduling more frequent DigitalOcean backups
 
 ## Community OSS projects
