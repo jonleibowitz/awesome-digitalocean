@@ -69,6 +69,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [drophosts](https://github.com/qmx/drophosts) - Update `/etc/hosts` with peer droplets.
 - [droplan](https://github.com/tam7t/droplan) - Manage iptable rules for the private interface on DigitalOcean droplets.
 - [foreman-digitalocean](https://github.com/theforeman/foreman-digitalocean) - Plugin to enable management of DigitalOcean droplets in Foreman.
+- [ghost-digitalocean](https://github.com/shiva-hack/ghost-digitalocean) - A DigitalOcean Storage adapter for Ghost.
 - [lita-digitalocean](https://github.com/jimmycuadra/lita-digitalocean) - Lita handler for managing DigitalOcean services.
 - [hostpool](https://github.com/progrium/hostpool) - Worker pool manager for DigitalOcean hosts.
 - [DDNS](https://github.com/skibish/ddns) - Personal DDNS client with DigitalOcean Networking DNS as backend.
