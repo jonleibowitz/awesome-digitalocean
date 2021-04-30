@@ -29,6 +29,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Questions](https://www.digitalocean.com/community/questions)
 - [Projects](https://www.digitalocean.com/community/projects)
 - [Meetups](https://www.meetup.com/pro/digitalocean/)
+- [DigitalOcean Lovers](https://www.linkedin.com/groups/8876623/) - A LinkedIn group for users and lovers of DigitalOcean.
+- 
 
 ## Configuration management
 
